@@ -19,11 +19,11 @@ export class AppComponent  {
    if( this.username ==="shubham" && this.password ==="123")
    {
      console.log("login successful")
-     alert("login successful")
+     
    }
    else{
      console.log("login failed");
-     alert("login failed")
+     
 
    }
  }
